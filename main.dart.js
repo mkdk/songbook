@@ -62011,7 +62011,7 @@ A.a_P.prototype={
 $3(a,b,c){return this.a.Rb(b)},
 $S:415}
 A.a_N.prototype={
-$2(a,b){var s=null,r=this.b,q=A.afd(A.Ai(A.adn(10,new A.mW("/images/border-beuty.png"),180),s,s,s,s,s,s),!1),p=B.f.k(b+1),o=r.b.d[b]
+$2(a,b){var s=null,r=this.b,q=A.afd(A.Ai(A.adn(10,new A.mW("images/border-beuty.png"),180),s,s,s,s,s,s),!1),p=B.f.k(b+1),o=r.b.d[b]
 return A.a9s(s,A.acl(A.c([q,A.acY(40,10,$.a8y(),p+"\n"+o,B.c8)],t.af),B.bT),B.az,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.a_M(a,r,b),s,s,s)},
 $S:416}
 A.a_M.prototype={
@@ -62039,7 +62039,7 @@ A.CF.prototype={
 P(a){var s=this,r=null,q=s.CA(!1),p=A.md(s.e,r,r,$.a8x(),r),o=s.CA(!0),n=A.aaa(r,16,r),m=A.md(s.d,r,r,$.a8y(),B.c8),l=A.aaa(r,32,r),k=$.a8w()
 return A.Ai(A.acl(A.c([q,p,o,n,m,l,new A.DT(A.at(20,k.u()>>>16&255,k.u()>>>8&255,k.u()&255),1,150,r)],t.af),B.bT),B.j,r,r,r,r,r)},
 CA(a){var s=null
-return A.afd(A.Ai(A.adn(10,new A.mW("/images/border-beuty.png"),180),s,s,s,s,s,s),a)}}
+return A.afd(A.Ai(A.adn(10,new A.mW("images/border-beuty.png"),180),s,s,s,s,s,s),a)}}
 A.DT.prototype={
 P(a){var s=null
 return A.Ai(s,s,new A.ee(this.c,s,s,A.a8N(8),s,s,B.bl),this.d,s,s,this.e)}}
