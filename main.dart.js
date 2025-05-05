@@ -75983,9 +75983,7 @@ break
 case 1:return A.O(q,r)}})
 return A.P($async$xq,r)}}
 A.a84.prototype={
-$1(a){var s=a.h(0,"number"),r=a.h(0,"title")
-a.h(0,"fullText")
-return new A.fQ(s,r,A.io(a.h(0,"verses"),!0,t.N))},
+$1(a){return new A.fQ(a.h(0,"number"),a.h(0,"title"),A.io(a.h(0,"verses"),!0,t.N))},
 $S:468}
 A.aiB.prototype={
 $1(a){return $.aiP()},
