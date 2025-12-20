@@ -1,11 +1,11 @@
 {
-    "name": "songbook",
-    "short_name": "songbook",
+    "name": "Песенник",
+    "short_name": "Песенник",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Songbooks for elcr",
+    "description": "Песенник для ЕЛЦР",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
