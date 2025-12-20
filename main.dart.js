@@ -79338,7 +79338,7 @@ $1(a){return $.ams()},
 $S:495}
 A.IQ.prototype={
 L(a){var s=null
-return new A.r1(B.Hn,"/",A.aK0(),"Song book app",A.pa(s,s,B.jJ,s,A.atR(A.as())),!0,s)}}
+return new A.r1(B.Hn,"/",A.aK0(),"\u041f\u0435\u0441\u0435\u043d\u043d\u0438\u043a",A.pa(s,s,B.jJ,s,A.atR(A.as())),!0,s)}}
 A.xs.prototype={
 ao(){return new A.BR()}}
 A.BR.prototype={
