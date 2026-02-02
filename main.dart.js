@@ -83307,7 +83307,7 @@ var $async$wu=A.P(function(b,c){if(b===1)return A.L(c,r)
 for(;;)switch(s){case 0:p=t.N
 o=B.bL
 s=3
-return A.S($.vL().Uy("assets/"+("json/"+("rus_word_"+a+".json"))),$async$wu)
+return A.S($.vL().Uy("assets/json/"+("rus_word_"+a+".json")),$async$wu)
 case 3:q=o.fk(c).qc(0,new A.a4i(),p,p)
 s=1
 break
@@ -83481,7 +83481,7 @@ p=t.p
 o=A.c([A.bZ(this.d,l,l,l,$.Xh(),l,l,l)],p)
 if(s!=null){p=A.c([],p)
 for(n=0;n<1;++n){m=new A.ax(10,10)
-p.push(new A.bB(B.Dv,new A.wJ(new A.cj(m,m,m,m),A.avf(B.A6,l,new A.qF("assets/"+("images/"+s[n])),l),l),l))}p.push(B.NC)
+p.push(new A.bB(B.Dv,new A.wJ(new A.cj(m,m,m,m),A.avf(B.A6,l,new A.qF("assets/images/"+s[n]),l),l),l))}p.push(B.NC)
 B.b.X(o,p)}return A.pr(r,B.d9,new A.bB(B.fS,A.awZ(A.k4(l,A.eg(o,B.bR,B.X,B.ax),B.x,l,l,new A.eu(B.k,l,l,q,l,l,B.bm),l,l,l,B.fS,l,l,1/0),l),l),l)}}
 A.ks.prototype={
 amu(a,b){A.ru()
